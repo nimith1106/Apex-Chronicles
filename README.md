@@ -41,8 +41,3 @@ Power‑ups spawn on random platforms when **any player’s health drops to 35 o
 | ❤️ Health Regen (green orb) | Instantly restores 5 health | Instant |
 
 
-
-3. Run the script:
-
-```bash
-python ApexChronicles.py
