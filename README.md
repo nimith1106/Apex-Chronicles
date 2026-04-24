@@ -45,3 +45,15 @@ Power‑ups spawn on random platforms when **any player’s health drops to 35 o
 
 1. Save the provided Python script as `apex_chronicles.py` (or any name you like).
 2. Create the following folder structure for assets (optional – the game will use coloured fallbacks if files are missing):
+
+your_game_folder/
+├── apex_chronicles.py
+├── turok.ttf 
+├── music.mp3 
+└── assets/
+
+
+3. Run the script:
+
+```bash
+python apex_chronicles.py
