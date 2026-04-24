@@ -1,7 +1,13 @@
 # Apex Chronicles – Two‑Player Platform Fighter
 
 A fast‑paced two‑player fighting game built with Pygame. Battle on a multi‑level platform stage, use special power‑ups, and smash your opponent’s health to zero. The game runs in fullscreen and automatically scales to any screen resolution.
+## 👥 Team
 
+- **Nesar N R**  
+- **Ojus**
+- **Nimith O**
+- **Nilesh Kumar Prajapati**  
+  
 ## Features
 
 - **Two‑player local combat** – Player 1 (left side) vs Player 2 (right side)
